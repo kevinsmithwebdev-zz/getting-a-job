@@ -1,0 +1,10 @@
+/* Copyright (C) Kevin Smith Web Dev, Inc - All Rights Reserved
+ *
+ * You are free to quote this material and copy for personal use.
+ *
+ * If you quote substantial section, please give credit and provide a link.
+ * 
+ * This material may be freely linked.
+ *
+ * Written by Kevin Smith <kevinsmithwebdev@gmail.com>, February 2019
+ */
