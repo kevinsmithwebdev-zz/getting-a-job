@@ -124,7 +124,7 @@ I would argue that learning the complete stack (even if only partially) will gre
 
 ### &nbsp;&nbsp;&nbsp;&nbsp; Build Your Technology Chain
 
-Any *Game of Thrones* fans out there? They have these scholars called "maesters". They where these necklaces/chains with metal links in them. As they learn a new field, they get a link for their chain that represents that knowledge. If you see a maester with only a few links, you know he's a novice. If you see an old guy that's almost being crushed by his chain, then you know he knows his stuff. That's what you want to be. You want to collect new libraries, frameworks, paradigms, languages, etc. You want to always be thinking about what you want to add to your collection next.
+Any *Game of Thrones* fans out there? They have these scholars called "maesters". They wear these necklaces/chains with metal links in them. As they learn a new field, they get a link for their chain that represents that knowledge. If you see a maester with only a few links, you know he's a novice. If you see an old guy that's almost being crushed by his chain, then you know he knows his stuff. That's what you want to be. You want to collect new libraries, frameworks, paradigms, languages, etc. You want to always be thinking about what you want to add to your collection next.
 
 ### &nbsp;&nbsp;&nbsp;&nbsp; Breadth or Depth?
 
