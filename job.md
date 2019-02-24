@@ -41,7 +41,7 @@ I found Free Code Camp and started there. I worked my butt off. I set goals as t
 
 I started applying for jobs like crazy. I probably sent out 500 applications, did 30 coding challenges, 20 phone interviews, and about 10 times I got to the second interview. Along the way, I did a few freelance projects in React Native. In the last week of the job search before accepting an offer, I was in the final stages (down to the last two or three candidates) with three companies, all at once. That is a testament to the fact that job hunting is a skill - in a year of job hunting I only made it to the final stage 3 times, all in the last couple weeks.
 
-So I landed a dream job. For those of you in the job hunt, that translates as "any job that pays me and let's me keep learning." But it really is a great job. First, the negatives. I had to move 1000 miles to a semi-rural area (I'm a city boy), and it separated me from my wife (physically, not emotionally, and hopefully temporarily). On the positive side, it pays really well, I'm learning a lot, and it is a great bunch of guys and gals - really, they are the best, I couldn't hope for a better work environment. After a 2-5 years of this, I should be able to write my ticket.
+So I landed a dream job. For those of you in the job hunt, that translates as "any job that pays me and allows me to keep learning." But it really is a great job. First, the negatives. I had to move 1000 miles to a semi-rural area (I'm a city boy), and it separated me from my wife (physically, not emotionally, and hopefully temporarily). On the positive side, it pays really well, I'm learning a lot, and it is a great bunch of guys and gals - really, they are the best, I couldn't hope for a better work environment. After a 2-5 years of this, I should be able to write my ticket.
 
 <a id="learning"></a>
 ## Learning
@@ -118,7 +118,7 @@ I'm not saying not to include tutorial stuff in your portfolio, but only the bes
 
 ### &nbsp;&nbsp;&nbsp;&nbsp; Stacks - Full, Frontend, or Backend
 
-Most people start out with the frontend. That's fine. But you want to learn at least some backend at some point. I don't think there are many jobs now for people that are strictly frontend or backend. Let me rephrase that - those jobs may exist, but you will often be expected to know something about the other side. I often see adds for a "frontend position" but then tell me I need "Ruby/Rails and SQL". And backend people are often expected to know the basics of frontend.
+Most people start out with the frontend. That's fine. But you want to learn at least some backend at some point. I don't think there are many jobs now for people that are strictly frontend or backend. Let me rephrase that - those jobs may exist, but you will often be expected to know something about the other side. I often see ads for a "frontend position" but then tell me I need "Ruby/Rails and SQL". And backend people are often expected to know the basics of frontend.
 
 I would argue that learning the complete stack (even if only partially) will greatly increase your understanding. After learning the frontend, there were many things that I *thought* I understood that really didn't truly make sense until I started building my own servers.
 
@@ -268,7 +268,7 @@ What companies to target? There are couple of factors here:
 <a id="interview"></a>
 ## The Interview
 
-I think of an interview like a first date. It's a chance to show you at your best. Your date knows that you won't always have a fresh haircut and shave, you won't always have a enw shirt, you won't always be on your 100% best behavior. But if you can at least clean up that well, then maybe your day-to-day isn't *that* bad.
+I think of an interview like a first date. It's a chance to show you at your best. Your date knows that you won't always have a fresh haircut and shave, you won't always have a new shirt, you won't always be on your 100% best behavior. But if you can at least clean up that well, then maybe your day-to-day isn't *that* bad.
 
 Interviewing skills are often overlooked but are ***so*** important. So are things like your portfolio and networking, but people know that. I'm always amazed that so many devs don't think about interviewing skills. They just assume that a great portfolio will be enough. But there are a lot of great portfolios out there. How are you going to stand out?
 
@@ -276,7 +276,7 @@ I used to be a professional jazz musician. A bass player friend of mine used to 
 
 We tend to think of interviews as being a face to face thing, but more and more technology is changing that. There were times when I was literally 15 minutes from their office, but they insisted on a phone interview. It's safer, easier, and quicker for them.
 
-Speaking of "easier for them", I noticed an odd "coincidence" with video interviews. Especially when dealing with agencies or personnel people, when doing a video interview, they start by apologizing that their camera "isn't working right now". After this happened six times in a row with different people, I got suspicious. I guess they just don't want to be bothered with you seeing them. It's also kind of a power move - they can see you but you can't see them. I guess it's their right, I just with they didn't lie to me about it. I don't think I ever had this happen with a programmer interviewing me. 
+Speaking of "easier for them", I noticed an odd "coincidence" with video interviews. Especially when dealing with agencies or personnel people, when doing a video interview, they start by apologizing that their camera "isn't working right now". After this happened six times in a row with different people, I got suspicious. I guess they just don't want to be bothered with you seeing them. It's also kind of a power move - they can see you but you can't see them. I guess it's their right, I just wish they didn't lie to me about it. I don't think I ever had this happen with a programmer interviewing me. 
 
 ### &nbsp;&nbsp;&nbsp;&nbsp; Dressing Up
 
