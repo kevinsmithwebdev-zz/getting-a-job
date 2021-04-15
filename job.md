@@ -68,7 +68,7 @@ And I would argue that it is a *good* thing that this is so hard. (That's what s
 
 This question gets asked a lot. Is it worth it? I would say that in the degree program, you are going to learn a lot, and a lot of technical things that you may not pick up otherwise. You will also meet a lot of people to add to your professional network. And having a degree tells the employer that you can learn, set goals, and finish something.
 
-Do you need it? There certainly are jobs that will *only* hire CS grads. I think these tend to be larger, more conservative companies. Is it a BS (no pun intended) requirement? Maybe sometimes. But maybe they know that they need people familiar with concepts that non-CS grads don't tend to get. Maybe they've had a lot of bad experiences that have taught them. Maybe they are concerned about liability about someone getting hired and making a big mistake. Some of these companies deal with vast sums of money or even people's lives - that's a lot of liability. At least if the gal they hire has a degree, they can say they did their part. If they get into court, they may not want to have to explain why they hired some 22 year old with a year and a half community college that made a mistake that cost a client 17 million dollars because he never really learned about hashing algorithms or blockchain but thought he understood them because he watched a few youtube videos.
+Do you need it? There certainly are jobs that will *only* hire CS grads. I think these tend to be larger, more conservative companies. Is it a BS (no pun intended) requirement? Maybe sometimes. But maybe they know that they need people familiar with concepts that non-CS grads don't tend to get. Maybe they've had a lot of bad experiences that have taught them. Maybe they are concerned about liability about someone getting hired and making a big mistake. Some of these companies deal with vast sums of money or even people's lives - that's a lot of liability. At least if the gal they hire has a degree, they can say they did their part. If they get into court, they may not want to have to explain why they hired some 22 year old with a year and a half community college that made a mistake that cost a client 17 million dollars because he never really learned about hashing algorithms or blockchain but thought he understood them because he watched a few YouTube videos.
 
 Do you need the degree? No. Does it increase your chance of success? Probably. I will say though that there is probably no technical field where you are *more* likely to land a good job without a degree than web dev. I think it boils down to your personality and what kind of work you want to do. One nice thing about going to college though is that you will make a lot of connections and be guaranteed of a well rounded base of knowledge.
 
@@ -84,9 +84,9 @@ Again, I think it boils down to personality.
 
 ### &nbsp;&nbsp;&nbsp;&nbsp; Self-taught? - Wait? I Can Do This in My Pajamas?
 
-There is also the self-taught route. This is the one I ended up doing, with the help of a free online bootcamp, a few books, and a lot of youtube videos. Granted, it fit my personality well as I have always been curious, am methodical, love to learn, and love researching things. (These are great qualities for coders, btw.)
+There is also the self-taught route. This is the one I ended up doing, with the help of a free online bootcamp, a few books, and a lot of YouTube videos. Granted, it fit my personality well as I have always been curious, am methodical, love to learn, and love researching things. (These are great qualities for coders, btw.)
 
-There are a lot of resources out there: books, blog articles, youtube videos, pay videos, Stack Overflow, etc. Really, there is nothing you can learn in a CS degree or a bootcamp that you can't learn at home. The question is *will* you learn it. Do you have the will power to learn things, even the boring parts? Some people do, some people don't.
+There are a lot of resources out there: books, blog articles, YouTube videos, pay videos, Stack Overflow, etc. Really, there is nothing you can learn in a CS degree or a bootcamp that you can't learn at home. The question is *will* you learn it. Do you have the will power to learn things, even the boring parts? Some people do, some people don't.
 
 There are also some negatives to being self-taught. It is hard to gauge your progress. In a forum where I regularly participate, you have no idea how often I have to help calm down new self-taught coders because they are freaking out because they cannot understand JavaScript closures after a three minute lesson. They think they're the only one - they assume it is easy for everyone else. And you miss out on networking possibilities and learning opportunities from interacting with other coders (Don't underestimate this.) If you live in a developed area, you can find a meetup to help with these, but if you don't it might be more difficult. It can get lonely.
 
@@ -97,7 +97,7 @@ Should you self-teach? Again, it's going to depend of life circumstances and per
 There are so many great resources out there.
 
 * **Books** - You can buy books, but there are also books at the library and free e-books you can download. You name a subject, someone has written a book on it.
-* **Videos** - There are plenty of wonderful youtube videos out there. Seriously, once my student loan is paid off, there are a few guys to whom (if they have a donation button) I will be sending a c-note. There were many things I would have never gotten through without their help. I loved to code along with other people as they built something. Granted, they're not all perfect. Sometimes they would be using deprecated versions of a library. Sometimes they would add unnecessary complexity by using other libraries that were not required by the problem. Sometimes they would go too fast or skip steps. But still, if you look hard, you can find something.
+* **Videos** - There are plenty of wonderful YouTube videos out there. Seriously, once my student loan is paid off, there are a few guys to whom (if they have a donation button) I will be sending a c-note. There were many things I would have never gotten through without their help. I loved to code along with other people as they built something. Granted, they're not all perfect. Sometimes they would be using deprecated versions of a library. Sometimes they would add unnecessary complexity by using other libraries that were not required by the problem. Sometimes they would go too fast or skip steps. But still, if you look hard, you can find something.
 * **Pay Sites** - There are definitely sites out there willing to charge you money to learn something. Granted, there is probably nothing on there you can't learn elsewhere, but it might be organized and packaged nicely. I've done a few of these and enjoyed them. 
 * **Free Sites** - I have to plug Free Code Camp here. Without them I wouldn't be here (they probably should get a few c-notes once the student loan is paid off). It's a non-profit, open-code tutorial site focused on the MERN stack. I'm sure there are others out there. Even some pay sites have some free stuff - I learned redux by watching some free Dan Abramov (the guy who invented it) videos on egghead.
 
@@ -141,7 +141,7 @@ My advice would be to focus on a stack, one complete set of tools from front to 
 
 You need to "brand" yourself. You need a professional email (I know your friends think booblover69@hotmail.com is funny, but it will land your resume in the trash.) Create an email account, separate from your personal account, with a professional sounding name. If you want it part of your portfolio site account, even better. 
 
-Get an email, web domain name, linkedin, twitter, facebook, youtube channel, etc. Even if you don't plan to use them right away, claim them. Ideally they should all have the same or similar name. There are sites that will check all these things to see if a name is taken on them. If you are cursed with a very common name (like me) you may have to find a way to make it unique.
+Get an email, web domain name, LinkedIn, Twitter, Facebook, YouTube channel, etc. Even if you don't plan to use them right away, claim them. Ideally they should all have the same or similar name. There are sites that will check all these things to see if a name is taken on them. If you are cursed with a very common name (like me) you may have to find a way to make it unique.
 
 ### &nbsp;&nbsp;&nbsp;&nbsp; Portfolio
 
@@ -251,7 +251,7 @@ This can't be stressed enough - a lot of job opportunities will come from people
 
 Maybe they know someone with a job for which you are qualified. Maybe the opposite is true. Maybe they can critique your resume or portfolio. Maybe they can review your code or work with you on a project. You could learn some cool things by returning the favor. Seriously, coding should be a social activity. Get out. Meet people. 
 
-Hook up with people on LinkedIn. If you want to work at a company, try to find a recruiter or dev. Find them on linkedin. Or email them. Ask them some questions. You'd be amazed how many of these people would be perfectly happy to spend some time giving some advice.
+Hook up with people on LinkedIn. If you want to work at a company, try to find a recruiter or dev. Find them on LinkedIn. Or email them. Ask them some questions. You'd be amazed how many of these people would be perfectly happy to spend some time giving some advice.
 
 ### &nbsp;&nbsp;&nbsp;&nbsp; Possibilities
 
