@@ -136,8 +136,7 @@ There was this old TV show called *The Love Boat*. It took place on a cruise shi
 My advice would be to focus on a stack, one complete set of tools from front to back, and all the libraries that go along with that. Once you get pretty darn good at that, start getting at least a superficial knowledge of what else it out there. Maybe also pick up a new stack. But in the beginning, I think it's good to focus on one stack. Become a specialist in one stack before becoming a generalist in some other things.
 
 <a id="selling"></a>
-##
- Selling Yourself
+## Selling Yourself
 
 ### &nbsp;&nbsp;&nbsp;&nbsp; Branding
 
